@@ -1,0 +1,6 @@
+Fix CLI todo bugs||High||True||2026-03-19 18:45
+Workout for 30 minutes||Low||False||2026-03-20 07:00
+Push code to GitHub||Medium||True||2026-03-20 09:15
+Learn Kali||High||False||2026-03-20 16:57
+Python pyqt||Medium||True||2026-03-20 17:20
+Github repo||Low||False||2026-03-20 20:47
